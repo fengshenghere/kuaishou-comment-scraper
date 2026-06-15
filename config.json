@@ -1,0 +1,13 @@
+{
+  "_说明": "快手评论抓取配置文件。不用的参数可以删掉。",
+  "videos": [
+    "3xqi7iru65ut3bk",
+    "3xgem97p6hychb9"
+  ],
+  "cdp": "http://127.0.0.1:28800",
+  "output_dir": "ks_output",
+  "max_pages": 50,
+  "delay": 0.5,
+  "batch_delay": 2.0,
+  "quiet": false
+}
