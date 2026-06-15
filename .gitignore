@@ -1,0 +1,21 @@
+﻿# Build outputs
+build/
+dist/
+__pycache__/
+*.spec
+*.pyc
+
+# Cookie files (sensitive)
+ks_cookies.json
+
+# Output data
+ks_output/*.xlsx
+ks_output/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
